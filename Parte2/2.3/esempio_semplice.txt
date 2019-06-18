@@ -1,0 +1,15 @@
+read(x); /*primocommento*//*leggo x*/
+read(y);
+case
+    when (x>y) print(x) /*terzo commento*/
+    else print(y); //commento aperto
+while (x>0) {  /*@$altrocommento*/
+    x:=x-1;  /*diminuisco x*/
+    print(x) /*stampo x*/
+    5/2;
+    8*/6;
+}
+/* commento finale aperto
+
+
+
