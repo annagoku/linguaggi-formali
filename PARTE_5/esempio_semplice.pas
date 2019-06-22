@@ -6,5 +6,6 @@ case
 while (x>0) {
     x:=x-1;
     print(x);
-}
+} ;
+
 z:=3;
